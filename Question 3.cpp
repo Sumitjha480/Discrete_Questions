@@ -136,6 +136,6 @@ int main()
         cout<<"\nExpression is contradiction";
     }
     else{
-        cout<<"\nExpression is contingency";
+        cout<<"\nExpression is a contingency";
     }
 }
